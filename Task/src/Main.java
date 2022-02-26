@@ -60,8 +60,8 @@ public class Main {
 
         }
 
-        int d = (100 / questions.size()) * countAns;
+        int percentage = (100 / questions.size()) * countAns;
 
-        System.out.println(d);
+        System.out.println(percentage);
     }
 }
