@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Task/Task.iml" filepath="$PROJECT_DIR$/Task/Task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValentineService/ValentineService.iml" filepath="$PROJECT_DIR$/ValentineService/ValentineService.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/project-java.iml" filepath="$PROJECT_DIR$/.idea/project-java.iml" />
     </modules>
   </component>
